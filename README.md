@@ -1,6 +1,6 @@
 # GoodShort
 
-مستودع توزيع نسخ أندرويد من تطبيق **GoodShort**. تُنشر ملفات الـ APK كأصول (assets) على صفحات الإصدارات في GitHub، لأن حد GitHub لحجم الملف داخل git هو 100 MiB بينما حجم الحزمة هنا أكبر من ذلك.
+مستودع توزيع نسخ أندرويد من تطبيق **GoodShort**. تُنشر ملفات APK كأصول (assets) على صفحات الإصدارات في GitHub، لأن حد GitHub لحجم الملف داخل git هو 100 MiB بينما حجم الحزمة هنا أكبر من ذلك.
 
 This repository publishes Android build artifacts for **GoodShort**. APK files are attached as GitHub Release assets (they exceed git's 100 MiB per-file limit); the git tree itself holds no binaries.
 
